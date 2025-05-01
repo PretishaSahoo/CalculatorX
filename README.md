@@ -50,7 +50,7 @@ flutter run
 
 ## 📷 Screenshots
 
-![Calculator UI](assets/images/calculator.jpg)
+<img src="assets/images/calculator.jpg" alt="Calculator UI" height="400">
 
 ---
 
