@@ -36,9 +36,6 @@ It supports basic arithmetic operations including addition, subtraction, multipl
 # Clone the repository
 git clone https://github.com/your-username/calculator_app.git
 
-# Navigate to the project directory
-cd calculator_app
-
 # Install dependencies
 flutter pub get
 
